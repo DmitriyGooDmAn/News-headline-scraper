@@ -19,4 +19,4 @@ News Headline Scraper is a Python script designed to fetch and display news head
 ```bash
 python news_scraper.py
 
-Feel free to customize it further based on additional features or specifics of your program.
+
